@@ -389,9 +389,9 @@ TSWLatexianTemp*
 *.sta
 
 # manuscripts
-tex/main/manuscript.pdf
-tex/sup/supplementary_information.pdf
-tex/manuscript.pdf
+tex/main/*.pdf
+tex/sup/*.pdf
+tex/*.pdf
 
 # private datasets
 data/private/
