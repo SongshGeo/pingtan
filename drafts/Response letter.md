@@ -1,13 +1,13 @@
 ## Response letter:
 
-January 1st, 2020
+January 3st, 2020
 
 Editor-in-Chief
 *Ecoscience*
 
 Dear Dr. Hugo Asselin,
 
-We thank the two anonymous reviewers for their thoughtful and useful comments on the previous of our manuscript (TECO-2020-0114) and we are pleased to submit this revised version for potential publication in *Ecoscience*. We have carefully followed the reviewers' suggestions as well as your editorial concerns, in conducting our revision. We now re-analysised the data and nearly rewrite the manuscript to response to reviewers' major concerns, the main points that have been changed in the new version are:
+We thank the two anonymous reviewers for their thoughtful and useful comments on our previous manuscript (TECO-2020-0114) and we are pleased to resubmit this revised version for potential publication in *Ecoscience*. We have carefully followed the reviewers' suggestions as well as your editorial concerns, in conducting our revision. We now re-analysised the data and nearly rewrote the manuscript in response to reviewers' major concerns, the main points that have been changed in the new version are:
 
 - We have significantly streamlined the manuscript to make it more focused on our main findings now.
 - We have re-analysed the data to ensure that the methods and results are more reliable and that the significance levels and error criteria have been chosen in line with international practice.
@@ -17,7 +17,7 @@ We have also addressed all the other questions and comments raised by the two re
 
 We trust that this new version will satisfy both you and the reviewers. Thank you once again for the time that you and reviewers have spent reviewing this MS.
 
-The manuscript includes 1 text (3903 words), 9 figures, 40 references. 9 figure and 1 tables.
+The manuscript includes 1 text (3915 words), 9 figures, 40 references and one table.
 
 We look forward to hearing from you.
 
@@ -46,7 +46,7 @@ Shuang Song
 ***[Response]*** Thanks for pointing this out. In fact, we only compare them by size (we mis-wrote in the last version.).
 
 ***[Reviewer #1 Comment #5]*** Lines 127-129: Did you measure the height of vertical ramets and the length of stolons to know they were all similar with each other before choosing the plants for the study?
-***[Response]*** Yes, we started our measurements in the first day of experiment and the we show them in the figures now [**see Figure 5**].
+***[Response]*** Yes, we started our measurements in the first day of experiment and we show them in the figures now [**see Figure 5**].
 
 ***[Reviewer #1 Comment #6]*** Line 131: What do you mean by "weeds" - all plant species around the selected plants, or particular species, that you consider undesirable, which tend to overgrow or choke out more desirable plants?
 ***[Response]*** Thanks for the valuable comment, this has been clarified in the revised version of the manuscript:
@@ -63,7 +63,7 @@ Lines 142-143: Since the height of vertical ramets of S. littoreus is relatively
 
 ### References
 
-Divyasree, M. & A. J. S. Raju, 2019. An Ecological Study Of Reproduction In Spinifex Littoreus (Burm.F.) Merr. (Poaceae), A Dominant Species Of Sand Dune Ecosystem Along The Visakhapatnam Coast, Andhra Pradesh. Journal of Palynology, 55: 35–54.
+Divyasree, M. & A. J. S. Raju, 2019. An Ecological Study Of Reproduction In Spinifex Littoreus (Burm.F.) Merr. (Poaceae), A dominant species of sand dune ecosystem along the visakhapatnam coast, andhra pradesh. Journal of Palynology, 55: 35–54.
 
 Yang, X., J. Du, J. Qin, Z. Chen, L. Yang & S. Song, 2017. Diurnal variation characteristics of leaf water potential of Spinifex littoreus on the nebkhas in different succession periods on the coast of Pingtan Island, Fujian Province, China. Chinese Journal of Applied Ecology, 28: 3260.
 
@@ -115,7 +115,7 @@ I have a concern with the methods of uncovering and re-covering plants to make m
 
 >During the measurements, the sand burying the plants was carefully removed to one side in a wooden baﬄe, and the height of the vertical ramets, the length of the stolons and adventitious roots were all measured with a tape. Considering the uncovering and re-covering of sand will probably aﬀect the gravity signal of plants to sand burial, we ﬁnished our measurements in minutes to minimize the potential disturbance, and re-covered the plants to the previous sand burial level with same sand. When the experiments were ﬁnished, both above and below ground biomass of plants were collected and separated according to the label on the stolons. Then all the samples were taken back to the laboratory, and the roots, stems and leaves were separated from the stolons, dried in the oven with a temperature of 65◦C for about 24 h until the weight was constant, and then weighed with an analytical balance (accuracy: 0.0001g).
 
-In summary, as our measurements are usually of short duration (a few minutes) and the overall experiment of long duration (20 days), we believe that we can ignore the effect of the short measurement time on the long-term growth of the plants. By the way, such an experimental approach is similar to that of Zhou et al.
+In summary, as our measurements are usually of short duration (a few minutes) and the overall experiment of long duration (20 days), we believe that we can ignore the effect of the short measurement time on the long-term growth of the plants. By the way, such an experimental approach is similar to that of Zhou et al. 2015.
 
 **Data analysis:**
 
@@ -224,6 +224,4 @@ Maun, M. A., 1994. Adaptations enhancing survival and establishment of seedlings
 
 Vallat, R., 2018. Pingouin: statistics in Python. Journal of Open Source Software, 3: 1026.
 
-Zhou, R., Y. Hou, Y. Wang & J. Zuo, 2015a. The physiological adaptation mechanisms of four common desert species in response to desert environments. Acta Ecologica Sinica, 35: 340–349.
-
-Zhou, R., D. Yang, J. Zuo, Y. Wang, Q. Li & D. Hu, 2015b. Analysis on the growth strategy of creeping stem inVitex trifolia var.simplicifoliadapting to sand burial. Acta Ecologica Sinica, 35: 1165–1174.
+Zhou, R., D. Yang, J. Zuo, Y. Wang, Q. Li & D. Hu, 2015. Analysis on the growth strategy of creeping stem inVitex trifolia var.simplicifoliadapting to sand burial. Acta Ecologica Sinica, 35: 1165–1174.
