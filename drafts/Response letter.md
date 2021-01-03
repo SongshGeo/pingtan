@@ -7,6 +7,8 @@ Editor-in-Chief
 
 Dear Dr. Hugo Asselin,
 
+![Screenshot](https://gitee.com/SongshGeo/PicGo_picbed/raw/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210103104911.png)
+
 We thank the two anonymous reviewers for their thoughtful and useful comments on our previous manuscript (TECO-2020-0114) and we are pleased to resubmit this revised version for potential publication in *Ecoscience*. We have carefully followed the reviewers' suggestions as well as your editorial concerns, in conducting our revision. We now re-analysised the data and nearly rewrote the manuscript in response to reviewers' major concerns, the main points that have been changed in the new version are:
 
 - We have significantly streamlined the manuscript to make it more focused on our main findings now.
